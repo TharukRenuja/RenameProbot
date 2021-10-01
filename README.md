@@ -1,5 +1,5 @@
 
-# [RenameProBot](https://github.com/m4mallu/renameprobot) 🤖
+# [RenameProBot](https://github.com/TharukRenuja/RenameProbot) 🤖
 
 An Open Source ALL-In-One Telegram RoBot, that can do a lot of things.
 
@@ -41,7 +41,7 @@ These functions can be done in a single download** 😍
 
 ## 💠 Easy Way :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/renameprobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TharukRenuja/RenameProbot)
 
 ## 💠 In linux Servers Or VPS:
 
@@ -99,6 +99,4 @@ channel5- set channel5 as default channel               (Optional)
 
 [DAN](https://t.me/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram) Library
 
-## 💠 Creator :
-
-[Mallu Boy](https://t.me/m4mallu) In Telegram [AS](https://t.me/space4renjith)
+[Mallu Boy](https://t.me/m4mallu) & All Contributers.
